@@ -4,7 +4,7 @@ import Button from './Button';
 const SectionHero = () => {
   return (
     <section className="max-container padding-container flex flex-col gap-20 py-10 pb-32 md:gap-28 lg:py-20 xl:flex-row">
-      <div className="hero-map" />
+      <div className="hero-map"></div>
       <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
         <Image
           src="/camp.svg"
@@ -59,7 +59,6 @@ const SectionHero = () => {
           <div className="flex flex-col">
             <div className="flexBetween">
               <p className="regular-16 text-gray-20">Расположение</p>
-              <Image src="/close.svg" alt="close" width={24} height={24} />
             </div>
             <p className="bold-20 text-white">Гора Приморская</p>
           </div>
