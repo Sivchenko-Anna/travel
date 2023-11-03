@@ -50,37 +50,36 @@ export const FEATURES = [
 // FOOTER SECTION
 export const FOOTER_LINKS = [
   {
-    title: "Learn More",
+    title: "Узнать больше",
     links: [
-      "About Hilink",
-      "Press Releases",
-      "Environment",
-      "Jobs",
-      "Privacy Policy",
-      "Contact Us",
+      "О компании",
+      "Пресс-релизы",
+      "Окружающая среда",
+      "Вакансии",
+      "Политика конфиденциальности",
+      "Связаться с нами",
     ],
   },
   {
-    title: "Our Community",
-    links: ["Climbing xixixi", "Hiking hilink", "Hilink kinthill"],
+    title: "Наше комъюнити",
+    links: ["Альпинисты", "Hiking гиды", "Hilink скалолазы"],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
-  title: "Contact Us",
+  title: "Связаться с нами",
   links: [
-    { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "hilink@akinthil.com" },
+    { label: "Телефон", value: "123-456-7890" },
+    { label: "Email", value: "hilink@gmail.com" },
   ],
 };
 
 export const SOCIALS = {
-  title: "Social",
+  title: "Социальные сети",
   links: [
     "/facebook.svg",
     "/instagram.svg",
     "/twitter.svg",
     "/youtube.svg",
-    "/wordpress.svg",
   ],
 };
