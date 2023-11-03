@@ -13,7 +13,7 @@ const SectionHero = () => {
           height={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg:bold-88">Путешествуй по Приморью</h1>
+        <h1 className="bold-52 lg:bold-88">Путешествуй в Приморье</h1>
         <p className="regular-16 mt-6 text-gray-50 xl:max-w-[520px]">
           Мы хотим быть в каждом вашем путешествии в поисках удовлетворения от
           созерцания нетленной красоты природы. Мы можем помочь вам в

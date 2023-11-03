@@ -18,32 +18,32 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: "Real maps can be offline",
+    title: "Реальные карты могут быть офлайн",
     icon: "/map.svg",
     variant: "green",
     description:
-      "We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location",
+      "Мы предоставляем решение, позволяющее вам использовать наше приложение во время восхождения. Да, офлайн-карты, которые вы можете использовать в любое время, когда на месте нет связи.",
   },
   {
-    title: "Set an adventure schedule",
+    title: "Установите график походов",
     icon: "/calendar.svg",
     variant: "green",
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      "Запланируйте приключение с друзьями. В праздничные дни от Hilink действует множество интересных предложений.",
   },
   {
-    title: "Technology using augment reality",
+    title: "Технологии с применением AR",
     icon: "/tech.svg",
     variant: "green",
     description:
-      "Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection",
+      "Технология использует дополненную реальность в качестве путеводителя по лесной тропе к вершине горы. Уже поддерживается новейшими технологиями без подключения к Интернету",
   },
   {
-    title: "Many new locations every month",
+    title: "Новые локации каждый месяц",
     icon: "/location.svg",
     variant: "orange",
     description:
-      "Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing",
+      "Множество новых локаций каждый месяц, потому что у нас есть всемирное сообщество туристов, которые делятся своим лучшим опытом походов.",
   },
 ];
 
