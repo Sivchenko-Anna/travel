@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  images: {unoptimized: true}
+  basePath: "/gh-pages-test",
 };
 
 module.exports = nextConfig;
