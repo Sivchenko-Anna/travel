@@ -16,7 +16,8 @@
 ## Примеры использования 
 ![Снимок экрана (75)](https://github.com/Sivchenko-Anna/travel/assets/103916590/ff39e3a7-fe55-48f3-88d0-a4e8704de306)
 
-![2](https://github.com/Sivchenko-Anna/travel/assets/103916590/c918218e-4162-4545-a75c-bfcf5bfd853e) ![3](https://github.com/Sivchenko-Anna/travel/assets/103916590/abdaf5ec-e34d-4cc7-afeb-792533532d7a)
+![4](https://github.com/Sivchenko-Anna/travel/assets/103916590/91ef7164-b3b2-4df2-a550-e361f51b3449)
+
 
 ## Запуск проекта
 
