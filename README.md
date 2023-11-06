@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Travel
 
-## Getting Started
+Проект "travel" представляет собой адаптивный лендинг с современным UI/UX
 
-First, run the development server:
+Посмотреть работу (Демо) - [travel](https://travel-ten-delta.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Технологии и инструменты
+- React
+- Next.js 14 
+- Tailwind CSS
+- TypeScript
+- Vercel (Проект развёрнут на платформе Vercel, и поэтому легко доступен для использования)
+
+Проект также содержит переиспользуемые компоненты, что обеспечивает эффективность и модульность в разработке.
+
+## Примеры использования 
+![Снимок экрана (75)](https://github.com/Sivchenko-Anna/travel/assets/103916590/ff39e3a7-fe55-48f3-88d0-a4e8704de306)
+
+![2](https://github.com/Sivchenko-Anna/travel/assets/103916590/c918218e-4162-4545-a75c-bfcf5bfd853e) ![3](https://github.com/Sivchenko-Anna/travel/assets/103916590/abdaf5ec-e34d-4cc7-afeb-792533532d7a)
+
+## Запуск проекта
+
+Если вы хотите запустить проект локально, выполните следующие шаги:
+1. Убедитесь, что у вас установлен Node.js
+2. Склонируйте репозиторий на свой локальный компьютер
+```sh
+git clone https://github.com/Sivchenko-Anna/travel.git
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. Установите зависимости 
+```sh
+npm install
+```
+5. Запустите проект
+```sh
+npm run dev
+```
